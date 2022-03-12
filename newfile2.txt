@@ -1,0 +1,1 @@
+This is the second new file for practicing adding file to repository in GitHub.
